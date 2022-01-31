@@ -15,7 +15,7 @@ const mel = {
             design: "Visual Design",
                     "Illustrations"
             dev: "Front-End"
-         }
- website: "melissamyra.space"
+         },
+  website: "melissamyra.space"
 }
 ```
