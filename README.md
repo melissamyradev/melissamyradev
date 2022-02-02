@@ -13,7 +13,7 @@ const mel = {
   code: [Javascript, HTML, CSS, Sass],
   work: {
             design: "Visual Design",
-                    "Illustrations"
+                    "Illustrations",
             dev: "Front-End"
          },
   website: "melissamyra.space"
