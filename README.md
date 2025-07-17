@@ -12,7 +12,7 @@
 const mel = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Scss],
-  tech-design-stack: [ReactJS, VueJS, Figma, Adobe Illustrator, Adobe Photoshop]
+  tech-design-stack: [AstroJS, Figma, Adobe Illustrator, Adobe Photoshop]
   work: {
             design: "Visual Design",
                     "Illustrations",
